@@ -37,5 +37,5 @@ buttonCorner.Parent = openButton
 
 -- Connect the button to the test command
 openButton.MouseButton1Click:Connect(function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NotyourScripter/PetxSeedSpawner/refs/heads/main/DUPAHHUB.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justnormal-person/Duper/refs/heads/main/DUPEHUB.lua"))()
 end)
