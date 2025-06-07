@@ -1,1 +1,1 @@
-# PetxSeedSpawner
+# PetxSeedSpawner/Duper
